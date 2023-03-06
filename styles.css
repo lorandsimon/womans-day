@@ -1,5 +1,5 @@
 body {
-  background-image: url(/assets/butterfly.jpg);
+  background-image: url(./assets/ButterflyDesktop.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -23,7 +23,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   body {
-    background-image: url(/assets/butterfly-mobile.jpeg);
+    background-image: url(./assets/ButterflyMobile.jpg);
   }
   .box {
     bottom: 10%;
